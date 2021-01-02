@@ -1,4 +1,4 @@
-# Mixed Messages - Random Profile
+# Mixed Messages - Random Profile Generator
 
 > random Profile generator.
 
@@ -11,7 +11,7 @@
 
 
 ## General info
-> It randomly generates a Profile with name, age, favorite sport and favorite food.
+> It randomly generates a profile with name, age, favorite sport and favorite food.
 
 ---
 

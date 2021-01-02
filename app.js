@@ -15,7 +15,7 @@ const profileDisplay = (name, city, age, food, sport) => {
     console.log(`Age: ${age}`);
     console.log('\n');
     console.log('---------About me----------------');
-    console.log(`Hey my name is ${name} I am ${age} years old and I am from ${city}. My favorite sport is ${sport} and I love to eat ${food}.`);
+    console.log(`Hey, my name is ${name} I am ${age} years old and I am from ${city}. My favorite sport is ${sport} and I love to eat ${food}.`);
 };
 
 
