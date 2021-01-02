@@ -23,9 +23,9 @@
 > Make sure to have Node installed 
 
 ## Usage
-> Enter node app in the terminal to run the app
+> In the terminal enter:
 ```
-node app
+$ node app
 ```
 ## Inspiration
 > Did this project as part of the Full Stack Engineer path on [Codecademy](http://codecademy.com)
